@@ -18,7 +18,7 @@ Este reels/tiktok de 47 segundos é uma breve apresentação de um host de podca
 ## 🚀 Resultados
 O vídeo é uma introdução a um podcast gerado através de IAs Generativas.
 
-[LINK PARA O PODCAST AQUI]()
+[ASSISTA O VÍDEO AQUI](https://drive.google.com/file/d/1nK13urgPhwrXmHNJt6uX0CMOtYo7Kn2W/view?usp=drive_link)
 
 ## 💭 Reflexão
 O projeto destacou a versatilidade das IAs Generativas na criação de conteúdo auditivo, abrindo novos caminhos para a produção de mídia digital.
